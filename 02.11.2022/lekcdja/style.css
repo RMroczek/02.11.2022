@@ -1,0 +1,124 @@
+body {
+    background-color: #f9f2ec;
+}
+#zdj1 {
+    opacity: 0.1;
+}
+#zdj2 {
+    opacity: 0.3;
+}
+#zdj3 {
+    opacity: 0.5;
+}
+#zdj4 {
+    opacity: 0.7;
+}
+#zdj5 {
+    opacity: 0.9;
+    
+}
+#zdj1:hover {
+    opacity: 1;
+}
+#zdj2:hover {
+    opacity: 1;
+}
+#zdj3:hover {
+    opacity: 1;
+}
+#zdj4:hover {
+    opacity: 1;
+}
+#zdj5:hover {
+    opacity: 1;
+}
+
+#ak123 {
+    text-indent: 50px;
+}
+#akp1::first-letter {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* nie ma takiej trzcionki jak algerian gościu */
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+#akp1::first-line {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+#akp2::first-letter {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* nie ma takiej trzcionki jak algerian gościu */
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+#akp2::first-line {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+#akp3::first-letter {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* nie ma takiej trzcionki jak algerian gościu */
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+    color: red;
+}
+#akp3::first-line {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+
+#ak45 {
+    text-indent: 20px;
+}
+#akp4::first-letter {
+    font-family: 'Curlz MT';
+    font-size: 60px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 1px red;
+    color: black;
+}
+#akp4::first-line {
+    font-family: 'Jokerman';
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+#akp5::first-letter {
+    font-family: 'Curlz MT';
+    font-size: 60px;
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    border: solid 1px red;
+    color: black;
+}
+#akp5::first-line {
+    font-family: 'Jokerman';
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
